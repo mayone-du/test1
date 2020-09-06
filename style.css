@@ -1,0 +1,193 @@
+header{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+.container{
+  max-width: 1400px;
+  padding: 30px 30px 0 30px;
+  margin: 0 auto;
+}
+
+img{
+  max-width: 100%;
+}
+
+.logo{
+  width: 400px;
+  margin: 20px 0;
+}
+
+.main{
+  border-radius: 10px;
+}
+
+nav{
+  text-align: center;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 10px 0px;
+  font-size: 17px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: #6C6C6C;
+  padding: 15px 30px;
+}
+
+nav ul li a:hover{
+  color: #D08147;
+  border-bottom: 4px solid #D08147;
+}
+
+a:hover{
+  transition: 0.3s;
+}
+
+h1{
+  font-size: 16px;
+  font-weight: 10;
+  color: white;
+  background-color: #D08147;
+  padding: 10px 10px 10px 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.a-table{
+  padding-left: 20px;
+  margin-top: 20px;
+  color: #6C6C6C;
+}
+
+th{
+  font-weight: normal;
+  padding: 4px 20px 0 0;
+}
+
+
+h2{
+  font-size: 16px;
+  font-weight: 10;
+  color: #6C6C6C;
+  background-color: white;
+  padding: 10px 10px 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  border: 1px solid #6C6C6C;
+}
+
+.text{
+  color: #6C6C6C;
+  line-height: 2;
+  padding-left: 20px;
+}
+
+.text a{
+  color: #6C6C6C;
+}
+
+span{
+  color: #D08147;
+}
+
+.info{
+  padding-left: 20px;
+}
+
+.info a{
+  color: #6C6C6C;
+}
+
+footer{
+  clear: both;
+  color: #6C6C6C;
+  text-align: center;
+  font-size: 14px;
+  line-height: 2;
+}
+
+footer a{
+  color: #6C6C6C;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: #D08147;
+}
+
+
+
+
+
+
+.a-table{
+  border: 1px solid black;
+  width: 100%;
+  padding: 10px 0 10px 5px;
+  border-collapse: collapse;
+}
+
+caption{
+  border: 1px solid black;
+  border-bottom: none;
+  text-align: left;
+  padding: 10px 0 10px 20px;
+  background-color: #EEEEEE;
+}
+
+.th, .td{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.th{
+  width: 30%;
+}
+
+.tag{
+  color: black;
+  background-color: #beb9b9;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+.g-h1{
+  margin-bottom: 30px;
+}
+
+.img1{
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.g-list{
+  border-bottom: 1px solid #b3b3b3;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+th a{
+  color: #b3b3b3;
+}
+
+th a:hover{
+  color: #D08147;
+}
+
